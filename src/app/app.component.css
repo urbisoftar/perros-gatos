@@ -1,0 +1,14 @@
+.toolbar {
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}
+
+.boton-toolbar {
+    margin-right: 20px;
+}
+
+.footer {
+    margin-top: 200px;
+}
